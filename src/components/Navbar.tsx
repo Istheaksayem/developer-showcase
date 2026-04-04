@@ -58,7 +58,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <a href="#home" className="text-2xl font-bold">
-            <span className="text-gradient">Dev</span>
+            <span className="text-gradient">Istheak</span>
             <span className="text-foreground">Portfolio</span>
           </a>
 
@@ -76,9 +76,8 @@ const Navbar = () => {
               </button>
             ))}
             <a
-              href="/resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/MERN_STUCK-DEVELOPER -  Istheak Ahmed.pdf"
+              download
               className="btn-primary text-sm"
             >
               Download Resume
@@ -117,9 +116,8 @@ const Navbar = () => {
                   </button>
                 ))}
                 <a
-                  href="/resume.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/MERN_STUCK-DEVELOPER -  Istheak Ahmed.pdf"
+                  download
                   className="btn-primary text-sm text-center mt-2"
                 >
                   Download Resume
