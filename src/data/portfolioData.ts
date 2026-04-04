@@ -78,7 +78,7 @@ export const projects: Project[] = [
       "Implementing secure escrow payment system",
       "Creating an efficient matching algorithm for jobs and freelancers"
     ],
-    improvements: [
+  improvements: [
       "AI-powered job matching",
       "Video interview integration",
       "Skill verification and certification system"

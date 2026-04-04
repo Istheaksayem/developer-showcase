@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Logo & Copyright */}
           <div className="text-center md:text-left">
             <a href="#home" className="text-2xl font-bold mb-2 inline-block">
-              <span className="text-gradient">Dev</span>
+              <span className="text-gradient">Istheak</span>
               <span className="text-foreground">Portfolio</span>
             </a>
             <p className="text-muted-foreground text-sm">
