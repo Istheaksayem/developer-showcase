@@ -45,14 +45,14 @@ const Footer = () => {
             >
               <Facebook size={18} />
             </a>
-            <a
+            {/* <a
               href={socialLinks.twitter}
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
             >
               <Twitter size={18} />
-            </a>
+            </a> */}
           </div>
 
           {/* Made with love */}
