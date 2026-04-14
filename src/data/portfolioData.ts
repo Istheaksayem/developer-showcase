@@ -23,28 +23,28 @@ export interface Project {
 }
 
 export const projects: Project[] = [
-{
-  id: "Onway-Ride-Sharing-Platform",
-  title: "Onway Ride Sharing Platform",
-  description: "A full-stack ride-sharing platform with real-time tracking, secure authentication, and digital payment integration.",
-  image: onway,
-  technologies: ["Next.js", "Node.js", "Express.js", "MongoDB", "NextAuth.js", "JWT", "SSLCommerz"],
-  liveUrl: "https://onway-5g8a.onrender.com",
-  githubUrl: "https://github.com/username/onway-rides",
-  challenges: [
-    "Implementing real-time GPS tracking for rides",
-    "Ensuring secure authentication with OTP and JWT",
-    "Building a reliable fare estimation system",
-    "Integrating smooth in-app chat and call features"
-  ],
-  improvements: [
-    "Add AI-based driver-passenger matching system",
-    "Implement ride scheduling feature",
-    "Enhance map performance and route optimization",
-    "Develop mobile apps for Android and iOS"
-  ],
-  fullDescription: "Onway is a full-stack ride-sharing platform designed to provide a seamless and secure transportation experience. Users can book rides instantly, track drivers in real-time, and make digital payments. The platform includes advanced features like OTP verification, KYC, face verification, in-app communication, and promo code support to ensure safety, convenience, and reliability."
-},
+  {
+    id: "Onway-Ride-Sharing-Platform",
+    title: "Onway Ride Sharing Platform",
+    description: "A full-stack ride-sharing platform with real-time tracking, secure authentication, and digital payment integration.",
+    image: onway,
+    technologies: ["Next.js", "Node.js", "Express.js", "MongoDB", "NextAuth.js", "JWT", "SSLCommerz"],
+    liveUrl: "https://onway-5g8a.onrender.com",
+    githubUrl: "https://github.com/Zarif207/OnWay",
+    challenges: [
+      "Implementing real-time GPS tracking for rides",
+      "Ensuring secure authentication with OTP and JWT",
+      "Building a reliable fare estimation system",
+      "Integrating smooth in-app chat and call features"
+    ],
+    improvements: [
+      "Add AI-based driver-passenger matching system",
+      "Implement ride scheduling feature",
+      "Enhance map performance and route optimization",
+      "Develop mobile apps for Android and iOS"
+    ],
+    fullDescription: "Onway is a full-stack ride-sharing platform designed to provide a seamless and secure transportation experience. Users can book rides instantly, track drivers in real-time, and make digital payments. The platform includes advanced features like OTP verification, KYC, face verification, in-app communication, and promo code support to ensure safety, convenience, and reliability."
+  },
   {
     id: "localchef-bazaar",
     title: "LocalChef Bazaar",
@@ -70,7 +70,7 @@ export const projects: Project[] = [
     title: "Freelance MarketPlace",
     description: "A modern job board and freelance marketplace for hiring talent and finding opportunities.",
     image: project2,
-    technologies: ["React", "Next.js", "PostgreSQL", "Prisma", "Stripe"],
+    technologies: ["React", "Node.js", "MongoDB", "Stripe"],
     liveUrl: "https://dapper-buttercream-10e70b.netlify.app",
     githubUrl: "https://github.com/Istheaksayem/local-chef-bazar-client",
     challenges: [
@@ -78,7 +78,7 @@ export const projects: Project[] = [
       "Implementing secure escrow payment system",
       "Creating an efficient matching algorithm for jobs and freelancers"
     ],
-  improvements: [
+    improvements: [
       "AI-powered job matching",
       "Video interview integration",
       "Skill verification and certification system"
