@@ -107,7 +107,7 @@ const Hero = () => {
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-8">
               <a
-                href="/MERN_STUCK-DEVELOPER -  Istheak Ahmed.pdf"
+                href="/MERN_STACK-DEVELOPER -  Istheak Ahmed.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary flex items-center gap-2 hover:scale-105 transition-transform duration-300 shadow-[0_0_20px_rgba(var(--primary),0.3)] bg-primary/90 hover:bg-primary"

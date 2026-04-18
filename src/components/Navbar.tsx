@@ -76,7 +76,7 @@ const Navbar = () => {
               </button>
             ))}
             <a
-              href="/MERN_STUCK-DEVELOPER -  Istheak Ahmed.pdf"
+              href="/MERN_STACK-DEVELOPER -  Istheak Ahmed.pdf"
               download
               className="btn-primary text-sm"
             >
@@ -116,7 +116,7 @@ const Navbar = () => {
                   </button>
                 ))}
                 <a
-                  href="/MERN_STUCK-DEVELOPER -  Istheak Ahmed.pdf"
+                  href="/MERN_STACK-DEVELOPER -  Istheak Ahmed.pdf"
                   download
                   className="btn-primary text-sm text-center mt-2"
                 >
